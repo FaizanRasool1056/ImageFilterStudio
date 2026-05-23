@@ -1,0 +1,10 @@
+01|Grayscale|Pixel Transform|0
+02|Invert|Pixel Transform|1 
+03|Brightness|Pixel Transform|1 
+04|Contrast|Pixel Transform|1 
+05|RedChannel|Pixel Transform|1
+06|GreenChannel|Pixel Transform|1 
+07|BlueChannel|Pixel Transform|1 
+08|BoxBlur|Spatial Filter|1 
+09|FlipHorizontal|Geometric|1 
+10|FlipVertical|Geometric|1 
