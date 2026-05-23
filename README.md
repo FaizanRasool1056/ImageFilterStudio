@@ -43,4 +43,4 @@ sessionfilemanager.cpp
 ## Technologies
 - Language: C++
 - Library: stb_image
-- IDE: Dev C++
+
